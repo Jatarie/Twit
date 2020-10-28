@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/Twit/precache-manifest.bb7843b0ce4208eb12572879d11f8a26.js"
+  "/Twit/precache-manifest.a2b57c10a7786a4c27923d47b0addcf5.js"
 );
 
 self.addEventListener('message', (event) => {
